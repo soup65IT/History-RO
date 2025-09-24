@@ -1,0 +1,46 @@
+{
+  "images": [
+    {
+      "src": "assets/images/Foametea.png",
+      "alt": "Foametea 1946–1947",
+      "title": "Foametea 1946–1947",
+      "caption": "Criză alimentară severă și pierderi de vieți omenești în mediul rural.",
+      "category": "Foametea"
+    },
+    {
+      "src": "assets/images/Represiuni.png",
+      "alt": "Arestări și Exiluri",
+      "title": "Arestări și Exiluri",
+      "caption": "Arestări, epurări și restrângerea libertăților în RSSM (1940–1953).",
+      "category": "Represiuni"
+    },
+    {
+      "src": "assets/images/Vagoane.jpg",
+      "alt": "Vagoane folosite la deportări",
+      "title": "Deportări în masă",
+      "caption": "Transportul forțat al familiilor în Siberia și Kazahstan.",
+      "category": "Deportări"
+    },
+    {
+      "src": "assets/images/Afis Propagandistic.png",
+      "alt": "Afiș propagandistic sovietic",
+      "title": "Afiș propagandistic",
+      "caption": "Exemplu de propagandă sovietică.",
+      "category": "Altele"
+    },
+    {
+      "src": "assets/images/Copii.png",
+      "alt": "Copii înfometați",
+      "title": "Copii înfometați",
+      "caption": "Imagine simbolică a lipsurilor din anii 1940.",
+      "category": "Altele"
+    },
+    {
+      "src": "assets/images/Nou.jpg",
+      "alt": "Nouă imagine",
+      "title": "Nouă imagine",
+      "caption": "Imagine nouă adăugată în galerie.",
+      "category": "Altele"
+    }
+  ]
+}
